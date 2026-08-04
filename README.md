@@ -1,10 +1,10 @@
-## Hi there 👋
+
 <div align="center">
 
-<!-- Banner - paleta azul/teal (tema automação/controle: circuitos, precisão) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0d9488&height=180&section=header&text=Sávio%20Giovani&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Engenharia%20de%20Controle%20e%20Automação%20%7C%20Dados%20%7C%20IoT&descSize=16&descAlignY=62" width="100%"/>
+<!-- Banner - paleta preto e branco -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=180&section=header&text=Sávio%20Giovani&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Engenharia%20de%20Controle%20e%20Automação%20%7C%20Dados%20%7C%20IoT&descSize=16&descAlignY=62" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=0D9488&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Controle+e+Automação;Python+%7C+C%2FC%2B%2B+%7C+Automação+Industrial;Explorando+Data+Science+e+IoT" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Controle+e+Automação;Python+%7C+C%2FC%2B%2B+%7C+Automação+Industrial;Explorando+Data+Science+e+IoT" alt="Typing SVG" />
 
 </div>
 
@@ -33,15 +33,15 @@ Venho construindo uma base entre **automação industrial** e **ciência de dado
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0D9488?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-1E3A5F?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-0F172A?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0D9488?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-1E3A5F?style=for-the-badge&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-0D9488?style=for-the-badge&logo=numpy&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-1E3A5F?style=for-the-badge&logo=n8n&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-0F172A?style=for-the-badge&logo=latex&logoColor=white)
+![Python](https://skillicons.dev/icons?i=py)
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Git](https://skillicons.dev/icons?i=git)
+![Pandas](https://go-skill-icons.vercel.app/api/icons?i=pandas)
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
+![Streamlit](https://go-skill-icons.vercel.app/api/icons?i=streamlit)
+![Excel](https://go-skill-icons.vercel.app/api/icons?i=excel)
+![Power BI](https://go-skill-icons.vercel.app/api/icons?i=pbi)
 
 </div>
 
@@ -100,28 +100,17 @@ _Em construção — reservado para o próximo case (ex: dashboard SQL + Power B
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Saviols6&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saviols6&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-
-</div>
-
----
-
 ## 📫 Contato
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savio-giovani)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/saviogiovanii/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/savio-giovani)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/saviogiovanii/)
 
 </div>
 
 <p align="center"><i>Portfólio dedicado em construção — em breve por aqui.</i></p>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,100:0f172a&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=100&section=footer" width="100%"/>
 </div>
