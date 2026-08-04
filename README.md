@@ -4,7 +4,7 @@
 <!-- Banner - paleta preto e branco -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=180&section=header&text=Sávio%20Giovani&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Engenharia%20de%20Controle%20e%20Automação%20%7C%20Dados%20%7C%20IoT&descSize=16&descAlignY=62" width="100%"/>
 
-- Conectando automação industrial e ciência de dados
+- Conectando automação e ciência de dados
 - Transformando dados em decisões
 - Sempre aprendendo, sempre automatizando
 
