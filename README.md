@@ -93,8 +93,8 @@ Dashboard interativo para visualização de dados estatísticos.
 </td>
 <td width="50%" valign="top">
 
-### 🔧 Próximo projeto
-_Em construção — reservado para o próximo case (ex: dashboard SQL + Power BI, ou manutenção preditiva com o dataset AI4I 2020)._
+  ### 📈 [eda-clear-data-analysis][(https://github.com/Saviols6/eda-clear-data-analysis)]
+Projeto de análise de dados voltado para ecommerces_
 
 </td>
 </tr>
