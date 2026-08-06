@@ -93,7 +93,7 @@ Dashboard interativo para visualização de dados estatísticos.
 </td>
 <td width="50%" valign="top">
 
-  ### 📈 [eda-clear-data-analysis][(https://github.com/Saviols6/eda-clear-data-analysis)]
+  ### 📈 [eda-clear-data-analysis](https://github.com/Saviols6/eda-clear-data-analysis)
 Projeto de análise de dados voltado para ecommerces_
 
 </td>
