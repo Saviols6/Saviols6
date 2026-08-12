@@ -40,7 +40,6 @@ Venho construindo uma base entre **automação industrial** e **ciência de dado
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![Git](https://skillicons.dev/icons?i=git)
 ![Pandas](https://go-skill-icons.vercel.app/api/icons?i=pandas)
-![PyTorch](https://skillicons.dev/icons?i=pytorch)
 ![Streamlit](https://go-skill-icons.vercel.app/api/icons?i=streamlit)
 ![Excel](https://go-skill-icons.vercel.app/api/icons?i=excel)
 ![Power BI](https://go-skill-icons.vercel.app/api/icons?i=pbi)
